@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 <h1 align="center">Hi 👋, I'm Harsh kharat</h1>
 <h3 align="center">I'm a passionate developer and lifelong learner who loves combining creativity and logic to build amazing projects.</h3>
-<img align = "right" width = "250" src = "https://c.tenor.com/eNu5KK9s1RAAAAAd/tenor.gif">
+<img align = "right" width = "250"preload="auto" loop src = "https://c.tenor.com/eNu5KK9s1RAAAAAd/tenor.gif">
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/harsh-kharat-a72b2a338/](https://www.linkedin.com/in/harsh-kharat-a72b2a338/)
 
